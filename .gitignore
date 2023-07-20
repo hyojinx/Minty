@@ -37,4 +37,11 @@ noted-feat-388516-061dc8e316cf.json
 /.nb-gradle/
 
 ### VS Code ###
-.vscode/
+.vscode/### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
